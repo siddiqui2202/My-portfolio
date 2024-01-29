@@ -1,0 +1,235 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    height: 550px;
+    /* border: 2px solid black; */
+}
+
+.Back {
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    font-weight: bolder;
+}
+
+.two {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 260px;
+    background-color: rgb(236, 204, 104);
+
+}
+
+.Three {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(255, 127, 80);
+
+}
+
+.Four {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(255, 107, 129);
+
+}
+
+.Five {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(164, 176, 190)
+}
+
+.Six {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 260px;
+    background-color: rgb(87, 96, 111)
+}
+
+.Seven {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 260px;
+    background-color: rgb(255, 165, 2)
+}
+
+.Eight {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(255, 99, 72)
+}
+
+.Nine {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(255, 71, 87)
+}
+
+.Ten {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(116, 125, 140)
+}
+
+.div11 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 260px;
+    background-color: rgb(47, 53, 66)
+}
+
+.div12 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 260px;
+    background-color: rgb(123, 237, 159)
+}
+
+.div13 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(112, 161, 255)
+}
+
+.div14 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(83, 82, 237)
+}
+
+.div15 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(255, 255, 255)
+}
+
+.div16 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 260px;
+    background-color: rgb(223, 228, 234)
+}
+
+.div17 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 260px;
+    background-color: rgb(46, 213, 115)
+}
+
+.div18 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(30, 144, 255)
+}
+
+.div19 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(55, 66, 250)
+}
+
+.french-palette {
+    font-size: 1.2vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    border-radius: 5px;
+    width: 250px;
+    height: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 560px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    position: absolute;
+    top: 10px;
+
+}
+
+
+.div20 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(241, 242, 246)
+}
+
+.div21 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 260px;
+    background-color: rgb(206, 214, 224)
+}

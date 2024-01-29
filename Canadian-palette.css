@@ -1,0 +1,254 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    height: 550px;
+
+
+    /* border: 2px solid black; */
+}
+
+.Back {
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    font-weight: bolder;
+
+
+}
+
+.Canadian-palette {
+    font-size: 1.2vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    border-radius: 5px;
+    width: 250px;
+    height: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 560px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    position: absolute;
+    top: 10px;
+
+}
+
+.two {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 260px;
+    background-color: rgb(0, 168, 255);
+
+}
+
+.Three {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(156, 136, 255);
+
+}
+
+.Four {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(251, 197, 49);
+
+}
+
+.Five {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(76, 209, 55);
+
+}
+
+.Six {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 260px;
+    background-color: rgb(72, 126, 176);
+
+}
+
+.Seven {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 260px;
+    background-color: rgb(0, 151, 230);
+
+}
+
+.Eight {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(140, 122, 230);
+
+}
+
+.Nine {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(225, 177, 44);
+
+}
+
+.Ten {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(68, 189, 50);
+
+}
+
+.div11 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 260px;
+    background-color: rgb(64, 115, 158);
+
+}
+
+.div12 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 260px;
+    background-color: rgb(232, 65, 24);
+
+}
+
+.div13 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(245, 246, 250);
+
+}
+
+.div14 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(127, 143, 166);
+
+}
+
+.div15 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(39, 60, 117);
+
+}
+
+.div16 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 260px;
+    background-color: rgb(53, 59, 72);
+
+}
+
+.div17 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 260px;
+    background-color: rgb(194, 54, 22);
+
+}
+
+.div18 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(220, 221, 225);
+
+}
+
+.div19 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(113, 128, 147);
+
+}
+
+.div20 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 270px;
+    background-color: rgb(25, 42, 86);
+
+}
+
+.div21 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* border: 2px solid black; */
+    height: 150px;
+    width: 260px;
+    background-color: rgb(47, 54, 64);
+}
